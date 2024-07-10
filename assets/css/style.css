@@ -1740,11 +1740,12 @@ li {
 }
 
 .footer-area .footer-bottom .footer-copy-right p i {
-	color: #ec5b53
+	color: orange
 }
 
 .footer-area .footer-bottom .footer-copy-right p a {
-	color: #ec5b53
+	color: orange;
+	font-weight: 400;
 }
 
 @media only screen and (min-width:768px) and (max-width:991px) {
