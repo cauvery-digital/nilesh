@@ -1472,7 +1472,7 @@ li {
 }
 
 .contact-info-area .contact-wrapper input::placeholder {
-	color:#fff;
+	color: #424242;
 	font-weight: 500;
 	font-size: 16px
 }
@@ -1492,7 +1492,7 @@ li {
 }
 
 .contact-info-area .contact-wrapper textarea::placeholder {
-	color: #fff;
+	color: #424242;
 	font-weight: 500;
 	font-size: 16px
 }
