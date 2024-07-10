@@ -1458,16 +1458,16 @@ li {
 }
 
 .contact-info-area .contact-wrapper input {
-	background: gainsboro;
+	background: orange;
 	height: 60px;
 	width: 100%;
 	padding: 10px 26px;
-	border: 5px;
-	color: #a3a3a3;
+	border: 0;
+	color: #000000;
 	font-weight: 500;
 	text-transform: capitalize;
-	border-radius: 0;
-	border-color: #2a2a2a;
+	border-radius: 10px;
+	border-color: #121017;
 	margin-bottom: 30px
 }
 
@@ -1479,15 +1479,15 @@ li {
 
 .contact-info-area .contact-wrapper textarea {
 	color: #000000;
-	background: gainsboro;
+	background: orange;
 	font-weight: 500;
 	letter-spacing: 2px;
 	text-transform: capitalize;
 	height: 160px;
 	width: 100%;
 	padding: 30px 26px;
-	border: 2px;
-	border-radius: 0;
+	border: 0;
+	border-radius: 10px;
 	margin-bottom: 30px
 }
 
