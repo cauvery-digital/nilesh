@@ -1458,7 +1458,7 @@ li {
 }
 
 .contact-info-area .contact-wrapper input {
-	background: #EBEBEB;
+	background: #fff;
 	height: 60px;
 	width: 100%;
 	padding: 10px 26px;
@@ -1472,13 +1472,13 @@ li {
 }
 
 .contact-info-area .contact-wrapper input::placeholder {
-	color: #000000;
-	font-weight: 300;
+	color:#4a3600;
+	font-weight: 500;
 	font-size: 16px
 }
 
 .contact-info-area .contact-wrapper textarea {
-	color: #a3a3a3;
+	color: #000000;
 	background: #fff;
 	font-weight: 500;
 	letter-spacing: 2px;
@@ -1493,8 +1493,8 @@ li {
 }
 
 .contact-info-area .contact-wrapper textarea::placeholder {
-	color: #000000;
-	font-weight: 300;
+	color: #4a3600;
+	font-weight: 500;
 	font-size: 16px
 }
 
