@@ -989,7 +989,7 @@ li {
 }
 
 .slider-height {
-	background-image: url(../img/hero/h1_hero.jpg.webp);
+	background-image: url(../img/hero/hero-1.webp);
 	min-height: 1000px;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -1021,7 +1021,7 @@ li {
 }
 
 .slider-height2 {
-	background-image: url(../img/hero/hero2.jpg.webp);
+	background-image: url(../img/hero/hero-2.webp);
 	min-height: 390px;
 	background-repeat: no-repeat;
 	background-size: cover
