@@ -1,4 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900|Rufina:400,700&display=swap);
+@import url(../fonts/rubik/stylesheet.css);
+@import url(../fonts/rufina/stylesheet.css);
 .boxed-btn {
 	background: #fff;
 	color: #ec5b53!important;
