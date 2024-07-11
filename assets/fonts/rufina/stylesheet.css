@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Rufina';
+    src: url('Rufina-Bold.eot');
+    src: local('Rufina Bold'), local('Rufina-Bold'),
+        url('Rufina-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Rufina-Bold.woff2') format('woff2'),
+        url('Rufina-Bold.woff') format('woff'),
+        url('Rufina-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rufina';
+    src: url('Rufina-Regular.eot');
+    src: local('Rufina'), local('Rufina-Regular'),
+        url('Rufina-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Rufina-Regular.woff2') format('woff2'),
+        url('Rufina-Regular.woff') format('woff'),
+        url('Rufina-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
