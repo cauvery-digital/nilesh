@@ -1059,14 +1059,14 @@ li {
 
 @media only screen and (min-width:576px) and (max-width:767px) {
 	.slider-area .hero__caption h1 {
-		font-size: 30px;
+		font-size: 40px;
 		line-height: 1.2
 	}
 }
 
 @media (max-width:575px) {
 	.slider-area .hero__caption h1 {
-		font-size: 28px;
+		font-size: 35px;
 		line-height: 1.2
 	}
 }
@@ -1108,7 +1108,7 @@ li {
 
 @media (max-width:575px) {
 	.slider-area .hero-cap h2 {
-		font-size: 30px
+		font-size: 28px
 	}
 }
 
